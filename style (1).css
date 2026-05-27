@@ -6,12 +6,11 @@ body {
 }
 
 header {
-    background-color: #003366;
-    color: white;
-    text-align: center;
-    padding: 20px;
+    background-color: pink;
+    color: blue;
+    font-size: 24px;
+    font-family: sans-serif;
 }
-
 main {
     width: 80%;
     margin: auto;
